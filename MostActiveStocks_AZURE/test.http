@@ -1,6 +1,0 @@
-POST http://localhost:7071/api/MostActiveStocks_AZURE
-Content-Type: application/json
-
-{
-    "name": "Azure"
-}
